@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List Anime</string>
+    <string name="list_anime_this_years">List Anime This Years</string>
+    <string name="naruto_nrating_7_75">Naruto\nRating : 7.92\nStudio : Studio Pierrot</string>
+    <string name="one_punch_man_nrating_8_32">One Punch Man Season 2\nRating : 7.59\nStudio : J.C.Staff</string>
+    <string name="one_piece_nrating_8_82">One Piece\nRating : 8.53\nStudio : Toei Animation</string>
+    <string name="naruto_shippuden_nrating_8_72">Naruto Shippuden\nRating : 8.20\nStudio : Studio Pierrot</string>
+    <string name="sc_from">Source from</string>
+    <string name="created_by">Created by</string>
+</resources>
